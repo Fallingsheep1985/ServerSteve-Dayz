@@ -1,2 +1,0 @@
-[
-] call server_spawnTraders;
